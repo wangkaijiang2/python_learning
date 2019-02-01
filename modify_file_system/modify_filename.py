@@ -4,6 +4,7 @@
 #Date: 2019/02/01
 #Author: aleck
 #Desc: 修改指定目录下的所有文件，包括子目录
+#python版本为2.7
 import os
 filepath="E://develop//code//CocosNew//FuGou//assets//CustomMade//wg0012//Prefabs//PopLayer"
 #func changefilename
